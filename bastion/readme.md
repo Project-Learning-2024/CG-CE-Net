@@ -26,7 +26,8 @@ the VM's through bastion. So every resources must be setup into Virtual network.
 
 **Network Security Group Rules**
 
-<img width="894" alt="image" src="https://github.com/Project-Learning-2024/CG-CE-Net/assets/77009306/c9c4f33a-bed5-4004-971c-a2527bbb6667">
+<img width="742" alt="image" src="https://github.com/Project-Learning-2024/CG-CE-Net/assets/77009306/4a6e0cab-b110-4303-845b-636275e86126">
+
 
 
    
