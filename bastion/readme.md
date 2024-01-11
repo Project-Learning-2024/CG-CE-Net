@@ -23,7 +23,7 @@ the VM's through bastion. So every resources must be setup into Virtual network.
 **Default Subnet name creation for bastion**
 1. AzureBastionSubnet
 
-**Network Security Group Rules**
+**Network Security Group Rules for bastion**
 
 <img width="742" alt="image" src="https://github.com/Project-Learning-2024/CG-CE-Net/assets/77009306/4a6e0cab-b110-4303-845b-636275e86126">
 
