@@ -12,7 +12,7 @@ the VM's through bastion. So every resources must be setup into Virtual network.
 
 **Creation of resources and dependencies**
 
-1. Create a Vnet in a resource group it it doesn't exit. (Every other resources should consume same VNET)
+1. Create a Vnet in a resource group if it doesn't exist. (Every other resources should consume same VNET)
 2. Create public IP.
 3. Create NSG with inbound and outbound rules.
 4. Create subnet for Bastion. (The Ip ranges will be provided as per VNET created and developer inputs)
