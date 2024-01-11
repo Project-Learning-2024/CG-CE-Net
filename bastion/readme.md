@@ -21,8 +21,7 @@ the VM's through bastion. So every resources must be setup into Virtual network.
 8. Create VM and attach subnet and use existing Vnet from same resource group.
 
 **Default Subnet name creation for bastion**
-
-<img width="911" alt="image" src="https://github.com/Project-Learning-2024/CG-CE-Net/assets/77009306/3d412a35-4a9b-400b-967e-f3d645ee9f5e">
+1. AzureBastionSubnet
 
 **Network Security Group Rules**
 
